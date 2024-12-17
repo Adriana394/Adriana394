@@ -1,4 +1,4 @@
-**Hello there! I'm Adriana👋**  
+**Hello there!👋**  
 I’m Adriana, 30 years old, and over the last 3 years, I’ve shifted my focus toward the rapidly evolving world of Artificial Intelligence.
 
 **From the Clouds to Code ☁️💻**  
