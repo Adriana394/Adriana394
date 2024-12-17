@@ -24,5 +24,4 @@ AI captivates me because of its boundless potential. It’s reshaping industries
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=Plotly&logoColor=white)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
-[![Adriana's GitHub stats](https://github-readme-stats.vercel.app/api?username=adriana394)](https://github.com/anuraghazra/github-readme-stats)
 
